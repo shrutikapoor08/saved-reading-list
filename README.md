@@ -89,6 +89,9 @@ A collection of articles from my browser's bookmarks. Putting it here so that it
 1. [Cracking the front end interview](https://www.freecodecamp.org/news/cracking-the-front-end-interview-9a34cd46237/)
 
 
+## Tools
+1. [Estimator.dev](https://estimator.dev/)
+
 
 ## Miscellaneous
 1. [Building a DevJoke Application with GraphQL
